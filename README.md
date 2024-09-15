@@ -1,4 +1,5 @@
 # MC-Gaussian
 
-![image](pipeline.pdf)
+![image](fig.png)  
+
 Code is coming soon.
