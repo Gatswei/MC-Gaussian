@@ -36,5 +36,9 @@ producing high-fidelity and real-time rendering.
 <img width="800" alt="image" src="figs/pipeline.jpg">
 </div>
 
+## 🚀 Pipeline
+
+The high-definition video of our project presentation is [here](https://youtu.be/JB79gaG0rt4).
+
 ## 🚀 Code
 The code will be released after paper has been accepted.
