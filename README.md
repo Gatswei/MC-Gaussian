@@ -30,5 +30,11 @@ sparse view observations. Our method achieves state-of-the-art
 results on static scenes from the Waymo and NuScenes datasets,
 producing high-fidelity and real-time rendering.
 
+## 🚀 Pipeline
+
+<div align="center">
+<img width="800" alt="image" src="figs/pipeline.jpg">
+</div>
+
 ## 🚀 Code
 The code will be released after paper has been accepted.
